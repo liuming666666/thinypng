@@ -1,9 +1,288 @@
-INFO main thinypng.Provider - aaa
-INFO main thinypng.Provider - aaa
-INFO main thinypng.Provider - aaa
-INFO main thinypng.Provider - aaa
-INFO main thinypng.Provider - 
-INFO main thinypng.Provider - 
-INFO main thinypng.Provider - 
-INFO main thinypng.Provider - 
-INFO main thinypng.Provider - Provider load src:aaa
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+ERROR main thinypng.Starter - Consumer initConsumer error - classpath:api_key.properties (系统找不到指定的文件。)
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+ERROR main thinypng.Starter - Consumer initConsumer error - api_key.properties (系统找不到指定的文件。)
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+ERROR main thinypng.Starter - Consumer initConsumer error - \api_key.properties (系统找不到指定的文件。)
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-1 thinypng.Provider - 加入队列失败 
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+ERROR pool-1-thread-1 thinypng.Consumer - Current Consumer - pool-1-thread-1 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+ERROR pool-1-thread-1 thinypng.Consumer - Current Consumer - pool-1-thread-1 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+ERROR pool-1-thread-2 thinypng.Consumer - Current Consumer - pool-1-thread-2 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - Current Comsumer - pool-1-thread-4 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+ERROR pool-1-thread-4 thinypng.Consumer - Current Consumer - pool-1-thread-4 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-3 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+ERROR pool-1-thread-1 thinypng.Consumer - Current Consumer - pool-1-thread-1 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+ERROR pool-1-thread-2 thinypng.Consumer - Current Consumer - pool-1-thread-2 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+ERROR pool-1-thread-3 thinypng.Consumer - Current Consumer - pool-1-thread-3 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+ERROR pool-1-thread-1 thinypng.Consumer - Current Consumer - pool-1-thread-1 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+ERROR pool-1-thread-3 thinypng.Consumer - Current Consumer - pool-1-thread-3 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - Current Comsumer - pool-1-thread-4 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+ERROR pool-1-thread-4 thinypng.Consumer - Current Consumer - pool-1-thread-4 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-2 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - Current Comsumer - pool-1-thread-4 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+ERROR pool-1-thread-1 thinypng.Consumer - Current Consumer - pool-1-thread-1 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+ERROR pool-1-thread-4 thinypng.Consumer - Current Consumer - pool-1-thread-4 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+ERROR pool-1-thread-3 thinypng.Consumer - Current Consumer - pool-1-thread-3 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-2 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:\Users\juyi1012\Desktop\tinyPNG, C:\Users\juyi1012\Desktop\tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+ERROR pool-1-thread-2 thinypng.Consumer - Current Consumer - pool-1-thread-2 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+ERROR pool-1-thread-1 thinypng.Consumer - Current Consumer - pool-1-thread-1 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+ERROR pool-1-thread-3 thinypng.Consumer - Current Consumer - pool-1-thread-3 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:/Users/juyi1012/Desktop/tinyPNG, C:/Users/juyi1012/Desktop/tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+ERROR pool-1-thread-2 thinypng.Consumer - Current Consumer - pool-1-thread-2 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+ERROR pool-1-thread-1 thinypng.Consumer - Current Consumer - pool-1-thread-1 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+ERROR pool-1-thread-3 thinypng.Consumer - Current Consumer - pool-1-thread-3 - Consumer doCompress exception error:C:\Users\juyi1012\Desktop\tinyPNG, src.path:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:/Users/juyi1012/Desktop/tinyPNG, C:/Users/juyi1012/Desktop/tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - Current Comsumer - pool-1-thread-4 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-3 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:/Users/juyi1012/Desktop/tinyPNG, C:/Users/juyi1012/Desktop/tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:/Users/juyi1012/Desktop/tinyPNG, C:/Users/juyi1012/Desktop/tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:/Users/juyi1012/Desktop/tinyPNG, C:/Users/juyi1012/Desktop/tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:/Users/juyi1012/Desktop/tinyPNG, C:/Users/juyi1012/Desktop/tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:/Users/juyi1012/Desktop/tinyPNG, C:/Users/juyi1012/Desktop/tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty
+INFO main thinypng.Starter - 运行参数：C:/Users/juyi1012/Desktop/tinyPNG, C:/Users/juyi1012/Desktop/tinyPNG1, 4
+INFO pool-1-thread-1 thinypng.Provider - 生产者call函数开始执行，加载图片数据
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.plist
+INFO pool-1-thread-1 thinypng.Provider - Provider load src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO main thinypng.Starter - api_key:BdCINnWUN7xCEqixltgcM25OSwkGq93v
+INFO pool-1-thread-1 thinypng.Consumer - Current Comsumer - pool-1-thread-1 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\bg.jpg
+INFO pool-1-thread-3 thinypng.Consumer - Current Comsumer - pool-1-thread-3 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\skin.png
+INFO pool-1-thread-2 thinypng.Consumer - Current Comsumer - pool-1-thread-2 - Comsumer doCompress src:C:\Users\juyi1012\Desktop\tinyPNG\qiutu.png
+INFO pool-1-thread-4 thinypng.Consumer - current Consumer - {} - consume faild, messageQueue empty

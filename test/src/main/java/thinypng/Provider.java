@@ -1,8 +1,8 @@
 package thinypng;
 
 import java.io.File;
-import java.util.Arrays;
 import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.Callable;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
  * @author 刘明
  *
  */
-public class Provider {
+public class Provider implements Callable<Boolean>{
 	
 	private static Logger log = LoggerFactory.getLogger(Provider.class);
 	
@@ -30,24 +30,23 @@ public class Provider {
 	/**
 	 * 加载要压缩的文件
 	 * @param src
+	 * @throws InterruptedException 
 	 */
-	private void load(File src) {
+	private void load(File src) throws InterruptedException {
 		log.info("Provider load src:{}",src.getAbsolutePath());
 		//当要压缩的文件是目录
 		if(src.isDirectory()) {
 			File[] files = src.listFiles();
-			Arrays.stream(files).forEach(file -> load(file));
+			for (File file : files) {
+				load(file);
+			}
+			//Arrays.stream(files).forEach(file -> load(file));
 			
 		//要压缩的是文件	
 		} else if(src.isFile()) {
 			//校验文件是否是jpg或png图片
 			if(this.validateImg(src)) {
-				try {
-					this.messageQueue.put(src);
-				} catch (InterruptedException e) {
-					log.info("加入队列失败 ");
-					log.error("", e);
-				}
+				this.messageQueue.put(src);		//往消息队列添加数据
 			}
 		}
 	}
@@ -81,5 +80,17 @@ public class Provider {
 
 	public static void setSrc(File src) {
 		Provider.src = src;
+	}
+
+	@Override
+	public Boolean call() {
+		log.info("生产者call函数开始执行，加载图片数据");
+		try {
+			this.load(Provider.src);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+			return false;
+		}
+		return true;
 	}
 }
